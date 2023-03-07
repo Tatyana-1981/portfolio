@@ -6,4 +6,4 @@
 | [проект_4](https://github.com/Tatyana-1981/portfolio/tree/main/проект_4)  | Исследование рынка общепита в Москве для принятия решения об открытии нового заведения| Python, Pandas, Seaborn, Plotly, визуализация данных |
 | [проект_5](https://github.com/Tatyana-1981/portfolio/tree/main/Проект_5)  | Исследовательский анализ клиентов банка| Python, Python, Seaborn, визуализация данных, проверка статистических гипотез |
 | [проект_6](https://github.com/Tatyana-1981/portfolio/tree/main/проект_6)  | Оценка и анализ результатов A/B-теста| A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, проверка статистических гипотез, визуализация данных, событийная аналитика |
-| [проект_7]](https://github.com/Tatyana-1981/portfolio/blob/main/проект_7/README.md)  | Анализ базы данных книг по подписке| sql |
+| [проект_7](https://github.com/Tatyana-1981/portfolio/blob/main/проект_7/README.md)  | Анализ базы данных книг по подписке| sql |
